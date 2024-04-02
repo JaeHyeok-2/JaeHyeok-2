@@ -25,7 +25,7 @@ Technologies Used: ```Tensorflow, SwiftUI, Docker, Flask ```
 Link: [LINK](https://github.com/JaeHyeok-2/RelationApplication)
 
 ## Note-taking
-I am currently organizing my study materials using the Notion application.
+I am currently organizing my study records using the Notion application.
 
 Notion focused on papers : [LINK](https://www.notion.so/ceeebe0d5a7a445694554821920c0af1?pvs=4)
 
