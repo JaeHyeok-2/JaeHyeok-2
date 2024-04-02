@@ -24,8 +24,11 @@ Link: [LINK](https://github.com/JaeHyeok-2/RelationApplication)
 
 ## Note-taking
 I am currently organizing my study materials using the Notion application.
+
 Notion focused on papers : [LINK](https://www.notion.so/ceeebe0d5a7a445694554821920c0af1?pvs=4)
+
 Notion focused on Knowledge of ML : [LINK](https://www.notion.so/1fa99c7df73d44e1950b517dc5a64463?v=f0ef33c5282f458392529032aeaadf2a&pvs=4)
+
 Paper Study Github : [LINK](https://github.com/DL-Study-Log)
 
 
