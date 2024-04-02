@@ -7,17 +7,23 @@ I love diving deep into complex problems and crafting innovative solutions
 Here are some of the projects I've worked on: 
 
 ### 1. Tumor Detection
-Description: Segmentation and Detection of Tumor ALK(-/+)
+Description: Segmentation and Detection of Tumor ALK(-/+).
+
 Technologies Used: Linux, Pytorch
+
 Link: [LINK](https://github.com/JaeHyeok-2/Medical-Image).
 
 ### 3. Relation Extraction in Sentences
 Description: translate multiple sentences to understand the relationships between individuals within the sentences.
+
 Technologies Used: Tensorflow, SwiftUI, Docker, Flask 
+
 Link: [LINK](https://github.com/JaeHyeok-2/RelationApplication)].
 
 
-## My Algorithm Grade
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogurgur">
+## My Algorithm Grade & Commit Status
+<div>
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogurgur">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JaeHyeok-2" height="165">
+</div>
