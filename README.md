@@ -1,5 +1,5 @@
 ## About Me
-Hi there! I'm JaeHyeok Lee, a passionate ```Computer-Vison``` enthusiast with a keen interest in Generative Model, Denoising
+Hi there! I'm JaeHyeok Lee, currently attending graduate school at Yonsei University. a passionate ```Computer-Vison``` enthusiast with a keen interest in Generative Model, Denoising
 Recently, I've also been interested in LLM models.
 I love diving deep into complex problems and crafting innovative solutions
 
