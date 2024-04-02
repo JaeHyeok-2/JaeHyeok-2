@@ -18,7 +18,7 @@ Technologies Used: ```Linux, Pytorch```
 Link: [LINK](https://github.com/JaeHyeok-2/Medical-Image)
 
 ### 2. Relation Extraction in Sentences
-Description: ```translate multiple sentences to understand the relationships between individuals within the sentences.```
+Description: ```translation multiple sentences to understand the relationships between individuals within the sentences.```
 
 Technologies Used: ```Tensorflow, SwiftUI, Docker, Flask ```
 
