@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I am Jaehyeok Lee, currently enrolled in the integrated master's and doctoral program in Computer Science at Yonsei University."
+Hello, I am Jaehyeok Lee, currently enrolled in the integrated master's and doctoral program in Computer Science at Yonsei University.
 
 a passionate ```Computer-Vison``` enthusiast with a keen interest in Generative Model, Denoising
 Recently, I've also been interested in LLM models.
