@@ -25,5 +25,5 @@ Link: [LINK](https://github.com/JaeHyeok-2/RelationApplication)].
 <div>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogurgur">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JaeHyeok-2" height="165">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=JaeHyeok-2" height="165">
 </div>
