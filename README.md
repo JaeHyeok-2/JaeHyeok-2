@@ -15,14 +15,17 @@ Description: ```Segmentation and Detection of Tumor ALK(-/+).```
 
 Technologies Used: ```Linux, Pytorch```
 
-Link: [LINK](https://github.com/JaeHyeok-2/Medical-Image)
+Project Link: [LINK](https://github.com/JaeHyeok-2/Medical-Image)
 
 ### 2. Relation Extraction in Sentences
 Description: ```translation multiple sentences to understand the relationships between individuals within the sentences.```
 
 Technologies Used: ```Tensorflow, SwiftUI, Docker, Flask ```
 
-Link: [LINK](https://github.com/JaeHyeok-2/RelationApplication)
+Project Link: [LINK](https://github.com/JaeHyeok-2/RelationApplication)
+
+## Anomaly Detection Study 
+Description: ```Reviewing papers, implementing, and summarizing projects on anomaly detection```
 
 ## Note-taking
 I am currently organizing my study records using the Notion application.
