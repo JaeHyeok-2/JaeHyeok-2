@@ -26,7 +26,9 @@ Project Link: [LINK](https://github.com/JaeHyeok-2/RelationApplication)
 
 ## Anomaly Detection Study 
 Description: ```Reviewing papers, implementing, and summarizing projects on anomaly detection```
-- Abnormal Event Detection in Videosusing Spatiotemporal Autoencoder : [LINK]()
+- Abnormal Event Detection in Videosusing Spatiotemporal Autoencoder : [LINK](https://github.com/JaeHyeok-2/ConvLSTM)
+
+
 ## Note-taking
 I am currently organizing my study records using the Notion application.
 
