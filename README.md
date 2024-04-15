@@ -30,6 +30,8 @@ Description: ```Reviewing papers, implementing, and summarizing projects on anom
   
 - Unsupervised Anomaly Detection Based on Background Modeling: [LINK](https://github.com/JaeHyeok-2/Unsupervised-Anomaly-Detection-for-Traffic-Surveillance-Based-on-Background-Modeling-)
 ## Note-taking
+
+- BeatGAN : [LINK](https://github.com/JaeHyeok-2?tab=repositories)
 I am currently organizing my study records using the Notion application.
 
 Notion focused on papers : [LINK](https://www.notion.so/ceeebe0d5a7a445694554821920c0af1?pvs=4)
