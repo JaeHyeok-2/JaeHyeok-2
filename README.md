@@ -30,7 +30,7 @@ Description: ```Reviewing papers, implementing, and summarizing projects on anom
   
 - Unsupervised Anomaly Detection Based on Background Modeling: [LINK](https://github.com/JaeHyeok-2/Unsupervised-Anomaly-Detection-for-Traffic-Surveillance-Based-on-Background-Modeling-)
 
-- BeatGAN : [LINK](https://github.com/JaeHyeok-2?tab=repositories)
+- BeatGAN : [LINK](https://github.com/JaeHyeok-2/BeatGAN)
 
 
 
