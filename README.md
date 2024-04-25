@@ -32,8 +32,7 @@ Description: ```Reviewing papers, implementing, and summarizing projects on anom
 
 - BeatGAN : [LINK](https://github.com/JaeHyeok-2/BeatGAN)
 
-
-
+- Student-Teacher Distllation AD : [https://github.com/JaeHyeok-2/Student-Teacher-AD](https://github.com/JaeHyeok-2/Student-Teacher-AD)
 
 ## Note-taking
 
