@@ -2,7 +2,7 @@
 
 Hello, I am Jaehyeok Lee, currently enrolled in the integrated master's and doctoral program in Computer Science at Yonsei University.
 
-a passionate ```Computer-Vison``` enthusiast with a keen interest in Generative Model, Denoising, Object Detection and Anomaly Detection
+a passionate ```Computer-Vison``` enthusiast with a keen interest in Object Detection, Tracking and Anomaly Detection
 
 
 ## Featured Projects
