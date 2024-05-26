@@ -47,7 +47,7 @@ Paper Study Github : [LINK](https://github.com/DL-Study-Log)
 
 
 ### Contact
-email : dlwogurgur@yonsei.ac.kr  or dlwogurgur1@gmail.com
+email : dlwogurgur1@gmail.com
 
 
 ## My Algorithm Grade & Commit Status
